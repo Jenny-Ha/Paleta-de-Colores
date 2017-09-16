@@ -1,0 +1,25 @@
+/**********************************
+ CUSTOM STYLE - PALETA DE COLORES
+**********************************/
+
+/* global */
+* {
+    outline: 1PX SOLID rgba(0, g250, 0, .3)
+}
+
+.main-container {
+    min-height: 100vh;
+    background-color: #31363c;
+}
+
+/* BG AREA*/
+.bg-area {
+    width: 100%;
+    min-height: 25vh;
+    max-height: 250px;
+    background-color: #fff;
+}
+
+/* BTN AREA*/
+
+/* NEW COLOR AREA*/
